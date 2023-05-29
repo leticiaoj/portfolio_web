@@ -4,16 +4,16 @@
 /*Definição das Variáveis do CSS*/
 :root {
     /*Cores de Fundo (Background)*/
-    --background-page: #FFF9E7;
-    --background-nav: #3A53E3;
-    --background-sobre: #F8CD53;
-    --background-footer: #29282B;
+    --background-page: #fad3b2;
+    --background-nav: #fb718a ;
+    --background-sobre: #ff9c97;
+    --background-footer: #f13565;
 
     /* Cores das Fontes (texto) */
     --cor-fonte-padrao: #000000;
     --cor-fonte-nav: #FFFFFF;
-    --cor-fonte-by: orange;
-    --cor-fonte-button-hover: yellow;
+    --cor-fonte-by: #FFFFFF;
+    --cor-fonte-button-hover: pink;
 
     /* Fontes da Página */
     --lato-roboto: 'lato', Roboto;
@@ -21,9 +21,9 @@
 
     /* Cores de Efeito */
     --cor-sombra: #C0C0C0;
-    --cor-sombra-hover: #191970;
-    --cor-button-hover: #191970;
-    --cor-placeholder-effect: #191970;
+    --cor-sombra-hover: #d83957;
+    --cor-button-hover: #d83957;
+    --cor-placeholder-effect: #d83957;
 }
 
 /* Zera todas as configurações da tela do Navegador 
